@@ -1,0 +1,17 @@
+﻿  Game.cpp
+c:\users\val-l\documents\visual studio 2017\projects\pong\pong\game.cpp(19): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+c:\users\val-l\documents\visual studio 2017\projects\pong\pong\game.cpp(22): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+c:\users\val-l\documents\visual studio 2017\projects\pong\pong\game.cpp(28): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+c:\users\val-l\documents\visual studio 2017\projects\pong\pong\game.cpp(53): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+c:\users\val-l\documents\visual studio 2017\projects\pong\pong\game.cpp(54): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+c:\users\val-l\documents\visual studio 2017\projects\pong\pong\game.cpp(130): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+c:\users\val-l\documents\visual studio 2017\projects\pong\pong\game.cpp(139): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+c:\users\val-l\documents\visual studio 2017\projects\pong\pong\game.cpp(225): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+c:\users\val-l\documents\visual studio 2017\projects\pong\pong\game.cpp(231): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+c:\users\val-l\documents\visual studio 2017\projects\pong\pong\game.cpp(242): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+c:\users\val-l\documents\visual studio 2017\projects\pong\pong\game.cpp(248): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+  Génération de code en cours...
+  Ignoré... (aucune modification pertinente détectée)
+  Main.cpp
+  Pong.vcxproj -> c:\users\val-l\documents\visual studio 2017\Projects\Pong\Debug\Pong.exe
+  Pong.vcxproj -> c:\users\val-l\documents\visual studio 2017\Projects\Pong\Debug\Pong.pdb (Partial PDB)
